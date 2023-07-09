@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671272588349",
+    "project_id": "cdss-f5fa6",
+    "storage_bucket": "cdss-f5fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671272588349:android:ad0f49f940f058078b8654",
+        "android_client_info": {
+          "package_name": "com.example.cdss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671272588349-na97lgckdnog7r227cassa6iildb3al8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_va0QqOdzcXwuIFmIhm3AefLCuRoz0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671272588349-na97lgckdnog7r227cassa6iildb3al8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
